@@ -14,7 +14,7 @@ Analyze customer behavior and billing patterns to identify churn risk and recomm
 - Churn_Dashboard.png → Dashboard preview  
 
 📸 Dashboard Preview
-![Dashboard](Customer_Churn_Analysis/Churn_Dashboard.png)
+![Dashboard](https://github.com/sayantan95riju/excel-business-analytics-portfolio/blob/main/Customer_Churn_Analysis/Churn_Dashboard.PNG)
 
 🔑 Key Insights
 - Overall churn rate: 26.5% — more than 1 in 4 customers leave. 
