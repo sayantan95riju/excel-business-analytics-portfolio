@@ -1,7 +1,7 @@
 📉 Telco Customer Churn Analysis
 
 📌 Objective
-Analyze customer behavior and billing patterns to identify churn risk and recommend strategies for retention.
+- Analyze customer behavior and billing patterns to identify churn risk and recommend strategies for retention.
 
 🛠️ Tools & Techniques
 - Excel formulas: IF, GETPIVOTDATA
