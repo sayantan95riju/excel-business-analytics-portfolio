@@ -14,7 +14,7 @@ Analyze customer behavior and billing patterns to identify churn risk and recomm
 - Churn_Dashboard.png → Dashboard preview  
 
 📸 Dashboard Preview
-![Dashboard](Telco_Customer_Churn_Dashboard.png)
+![Dashboard](Customer_Churn_Analysis/Churn_Dashboard.png)
 
 🔑 Key Insights
 - Overall churn rate: 26.5% — more than 1 in 4 customers leave. 
